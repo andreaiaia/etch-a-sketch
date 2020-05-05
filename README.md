@@ -13,3 +13,5 @@ By the end of this project I should have learned:
 - How to style elements with js
 - How to make and use buttons
 - How to use the Random() module to pick random colors
+
+[View in Browser](https://andreaiaia.github.io/etch-a-sketch/)
